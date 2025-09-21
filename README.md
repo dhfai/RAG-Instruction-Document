@@ -208,7 +208,3 @@ Edit file di `templates/template.json` untuk mengubah struktur modul ajar.
 ## 📝 License
 
 Proyek ini untuk keperluan pendidikan dan pengembangan sistem RAG.
-
-## 👨‍💻 Support
-
-Untuk pertanyaan dan support, silakan buka issue di repository ini.
