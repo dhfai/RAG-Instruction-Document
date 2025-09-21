@@ -1,0 +1,52 @@
+{
+    "ModulAjar": {
+      "InformasiUmum": {
+        "IdentitasModul": {},
+        "KompetensiAwal": {},
+        "ProfilPelajarPancasila": {},
+        "SaranaDanPrasarana": {},
+        "TargetPesertaDidik": {},
+        "JumlahPesertaDidik": {},
+        "ModelPembelajaran": {}
+      },
+      "KomponenInti": {
+        "TujuanKegiatanPembelajaran": {},
+        "PemahamanBermakna": {},
+        "PertanyaanPemantik": {},
+        "KegiatanPembelajaran": {
+          "KegiatanBelajar1": {
+            "PersiapanMengajar": {
+              "PeralatanPembelajaran": {},
+              "MediaPembelajaran": {}
+            },
+            "KegiatanPengajaranDiKelas": {
+              "KegiatanPembuka": "",
+              "KegiatanInti": "",
+              "KegiatanPenutup": ""
+            }
+          }
+        },
+        "Refleksi": {},
+        "AsesmenPenilaian": {
+          "PenilaianSikap": {},
+          "PenilaianPengetahuan": {}
+        },
+        "KegiatanPengayaanDanRemedial": {}
+      },
+      "Lampiran": {
+        "LembarKerjaPesertaDidik": {
+          "Kelompok": {},
+          "Kelas": {},
+          "NamaAnggota": {},
+          "ContohMindMapping": {
+            "DiRumah": {},
+            "DiSekolah": {},
+            "DiLingkungan": {}
+          }
+        },
+        "BahanBacaanGuruDanPesertaDidik": {},
+        "Glosarium": {},
+        "DaftarPustaka": {}
+      }
+    }
+  }
